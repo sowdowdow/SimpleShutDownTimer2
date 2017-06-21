@@ -5,10 +5,12 @@ body{
 	text-align: left;
 	}
 p{
-	border-top: solid #83BABF;
 	text-align: center;
 	margin: 10px;
 	font-size: 30px;
+}
+h1{
+	margin: 0px;
 }
 header{
 	/* Le titre */
@@ -23,6 +25,9 @@ header{
 	text-transform: uppercase;
 	cursor: default;
 
+}
+footer{
+	border-top: solid #83BABF;
 }
 a{
 	color: #DE4B48;
@@ -45,6 +50,7 @@ a:hover{
 	font-size: 30px;
 	text-align: center;
 	padding: 30px;
+	margin: 50px;
 	width: 100px;
 	background-color: #F5F550;
 	box-shadow: 0px 0px 5px #000;
