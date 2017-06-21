@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Simple Shutdown Timer 2
+</name>
+</assembly>
+<members>
+<member name="T:Simple_Shutdown_Timer_2.My.MyWpfExtension">
+ <summary>
+ Module utilisé pour définir les propriétés qui sont disponibles dans l'espace de noms My pour WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Simple_Shutdown_Timer_2.My.MyWpfExtension.Application">
+ <summary>
+ Retourne l'objet application pour l'application en cours d'exécution
+ </summary>
+</member>
+<member name="P:Simple_Shutdown_Timer_2.My.MyWpfExtension.Computer">
+ <summary>
+ Retourne les informations relatives à l'ordinateur hôte.
+ </summary>
+</member>
+<member name="P:Simple_Shutdown_Timer_2.My.MyWpfExtension.User">
+ <summary>
+ Retourne les informations relatives à l'utilisateur actuel.  Si vous souhaitez exécuter l'application avec les 
+ informations d'identification de l'utilisateur Windows, appelez My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:Simple_Shutdown_Timer_2.My.MyWpfExtension.Log">
+ <summary>
+ Retourne le journal des applications. L'écouteur peut être configuré par le fichier de configuration de l'application.
+ </summary>
+</member>
+<member name="P:Simple_Shutdown_Timer_2.My.MyWpfExtension.Windows">
+ <summary>
+ Retourne la collection de fenêtres définie dans le projet.
+ </summary>
+</member>
+<member name="T:Simple_Shutdown_Timer_2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Simple_Shutdown_Timer_2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Simple_Shutdown_Timer_2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Simple_Shutdown_Timer_2.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:Simple_Shutdown_Timer_2.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:Simple_Shutdown_Timer_2.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:Simple_Shutdown_Timer_2.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:Simple_Shutdown_Timer_2.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
