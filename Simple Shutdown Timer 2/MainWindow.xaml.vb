@@ -26,6 +26,9 @@ Class MainWindow
 
     Private Sub bt_go_Click(sender As Object, e As RoutedEventArgs) Handles bt_go.Click
 
+        If tb_h.Text = 0 And tb_m.Text = 0 And tb_s.Text = 0 Then
+            tb_s.Background = New SolidColorBrush(Color.FromRgb(255, 0, 0))
+        End If
         'avoid activation when everything = 0
         If active Like False And (tb_h.Text * 60 * 60 + tb_m.Text * 60 + tb_s.Text) > 0 Then
 
@@ -82,7 +85,7 @@ Class MainWindow
                     bt_go.Content = "arret"
                     Process.Start("C:\Windows\System32\shutdown.exe", "-s")
                 Case "Veille"
-                    bt_go.Content = "sleep"
+                    bt_go.Content = "sleep *not working*"
                     'SetSuspendState("Suspend", True, False) --------------------------------------------------------
                 Case "Redémarrer"
                     bt_go.Content = "restart"

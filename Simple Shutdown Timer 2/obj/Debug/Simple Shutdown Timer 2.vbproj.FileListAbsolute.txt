@@ -1,16 +1,20 @@
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.exe.config
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.exe
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.pdb
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.xml
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.vbprojResolveAssemblyReference.cache
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\MainWindow.g.vb
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Application.g.vb
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2_MarkupCompile.cache
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2_MarkupCompile.lref
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\MainWindow.baml
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.g.resources
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple_Shutdown_Timer_2.Resources.resources
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.vbproj.GenerateResource.Cache
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.exe
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.xml
-e:\mes documents\visual studio 2017\Projects\Simple Shutdown Timer 2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.pdb
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.exe.config
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.exe.manifest
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.application
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.exe
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.pdb
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\bin\Debug\Simple Shutdown Timer 2.xml
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\MainWindow.g.vb
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Application.g.vb
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2_MarkupCompile.cache
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2_MarkupCompile.lref
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\MainWindow.baml
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.g.resources
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple_Shutdown_Timer_2.Resources.resources
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.vbproj.GenerateResource.Cache
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.TrustInfo.xml
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.exe.manifest
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.application
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.exe
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.xml
+E:\mes documents\SimpleShutDownTimer2\Simple Shutdown Timer 2\obj\Debug\Simple Shutdown Timer 2.pdb
