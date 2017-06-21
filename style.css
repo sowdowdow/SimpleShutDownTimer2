@@ -10,24 +10,19 @@ p{
 	margin: 10px;
 	font-size: 30px;
 }
-h1{
-	font-size: 80px;
-	font-family: 'Mogra', cursive;
-	text-shadow: 0px 0px 2px rgb(0,0,0);
-	text-align: center;
-	color: #F5A556;
-	margin: 0px;
-	margin-top: 5px;
-	}
 header{
 	/* Le titre */
 	font-size: 40px;
-	font-family: 'Mogra', cursive;
-	text-shadow: 0px 0px 2px #43DED8,0px 0px 4px #43DED8, 0px 0px 8px #000;
+	font-family: 'Roboto', sans-serif;
+	text-shadow: 0px 0px 2px rgb(0,0,0);
+	word-spacing: 10px;
 	text-align: center;
-	color: #4BFF72;
+	color: #F5F550;
+	margin: 0px;
+	margin-top: 5px;
 	text-transform: uppercase;
 	cursor: default;
+
 }
 a{
 	color: #DE4B48;
@@ -37,11 +32,7 @@ a{
 }
 
 a:hover{
-	color: #FFF;
-}
-
-a:visited{
-	color: #0A0;
+	color: #5E15A8;
 }
 .box{
     display: flex;
@@ -55,10 +46,14 @@ a:visited{
 	text-align: center;
 	padding: 30px;
 	width: 100px;
-	background-color: #4BFF72;
+	background-color: #F5F550;
 	box-shadow: 0px 0px 5px #000;
 	transition: 0.3s;
 }
 .download:hover{
-	padding: 200px;
+	padding: 30px 60px 30px 60px;
+}
+img{
+	height: 50px;
+	margin-top: 10px;
 }
