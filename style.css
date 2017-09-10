@@ -37,6 +37,9 @@ p{
 	margin: 10px;
 	font-size: 30px;
 }
+.maintext{
+	font-family: 'VT323', monospace;
+}
 h1{
 	margin: 0px;
 }
